@@ -1,0 +1,8 @@
+PS_g 0.98
+PS_r 0.98
+PS_i 0.99
+PS_z 1.00
+PS_y 1.00
+2MASS_J 1.00
+2MASS_H 1.01
+2MASS_Ks 1.01
